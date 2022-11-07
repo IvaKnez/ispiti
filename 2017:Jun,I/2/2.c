@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define MAX 21
-
+// bla bla
 // definisanje strukture za cuvanje podataka o odigranim utakmicama
 typedef struct Duel
 {
